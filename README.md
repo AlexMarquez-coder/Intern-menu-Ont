@@ -20,4 +20,4 @@ is niet verplicht
 1. maak het menu sticky
 1. zorg ervoor dat de gekozen sectie niet onder het menu schuift
 
-Link naar de uitgewerkte versie: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/materiaal-oefening-menu/index.html
+Link naar de uitgewerkte versie: Les 5: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/materiaal-oefening-menu/index.html
